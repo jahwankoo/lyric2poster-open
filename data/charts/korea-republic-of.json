@@ -2,357 +2,357 @@
  "chart_id": "korea-republic-of",
  "label": "Top tracks: Korea, Republic of",
  "source": "lastfm",
- "fetched_at": "2026-11-21T23:50:17+00:00",
+ "fetched_at": "2026-11-23T00:21:13+00:00",
  "tracks": [
   {
    "rank": 1,
    "title": "NEON",
    "artist": "A2O LITE",
-   "listeners": 161,
+   "listeners": 155,
    "url": "https://www.last.fm/music/A2O+LITE/_/NEON"
   },
   {
    "rank": 2,
    "title": "체포하겠어",
    "artist": "ILLIT",
-   "listeners": 124,
+   "listeners": 121,
    "url": "https://www.last.fm/music/ILLIT/_/%EC%B2%B4%ED%8F%AC%ED%95%98%EA%B2%A0%EC%96%B4"
   },
   {
    "rank": 3,
    "title": "Nicole Kidman",
    "artist": "ADÉLA",
-   "listeners": 117,
+   "listeners": 116,
    "url": "https://www.last.fm/music/AD%C3%89LA/_/Nicole+Kidman"
   },
   {
    "rank": 4,
    "title": "WITH",
    "artist": "RESCENE",
-   "listeners": 116,
+   "listeners": 109,
    "url": "https://www.last.fm/music/RESCENE/_/WITH"
   },
   {
    "rank": 5,
-   "title": "Lemonade",
-   "artist": "aespa",
-   "listeners": 103,
-   "url": "https://www.last.fm/music/aespa/_/Lemonade"
+   "title": "IT'S ME",
+   "artist": "ILLIT",
+   "listeners": 104,
+   "url": "https://www.last.fm/music/ILLIT/_/IT%27S+ME"
   },
   {
    "rank": 6,
-   "title": "IT'S ME",
-   "artist": "ILLIT",
-   "listeners": 102,
-   "url": "https://www.last.fm/music/ILLIT/_/IT%27S+ME"
+   "title": "Lemonade",
+   "artist": "aespa",
+   "listeners": 101,
+   "url": "https://www.last.fm/music/aespa/_/Lemonade"
   },
   {
    "rank": 7,
    "title": "REDRED",
    "artist": "CORTIS",
-   "listeners": 97,
+   "listeners": 99,
    "url": "https://www.last.fm/music/CORTIS/_/REDRED"
   },
   {
    "rank": 8,
-   "title": "RUDE!",
-   "artist": "Hearts2Hearts",
-   "listeners": 91,
-   "url": "https://www.last.fm/music/Hearts2Hearts/_/RUDE%21"
-  },
-  {
-   "rank": 9,
-   "title": "Ain't In LA",
-   "artist": "ADÉLA",
-   "listeners": 90,
-   "url": "https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA"
-  },
-  {
-   "rank": 10,
-   "title": "Creep",
-   "artist": "Radiohead",
-   "listeners": 88,
-   "url": "https://www.last.fm/music/Radiohead/_/Creep"
-  },
-  {
-   "rank": 11,
    "title": "LOVE ATTACK",
    "artist": "RESCENE",
-   "listeners": 86,
+   "listeners": 89,
    "url": "https://www.last.fm/music/RESCENE/_/LOVE+ATTACK"
   },
   {
-   "rank": 12,
-   "title": "Looks Can Kill",
-   "artist": "IVE",
-   "listeners": 86,
-   "url": "https://www.last.fm/music/IVE/_/Looks+Can+Kill"
-  },
-  {
-   "rank": 13,
+   "rank": 9,
    "title": "Ditto",
    "artist": "NewJeans",
-   "listeners": 84,
+   "listeners": 88,
    "url": "https://www.last.fm/music/NewJeans/_/Ditto"
   },
   {
-   "rank": 14,
-   "title": "the cure",
-   "artist": "Olivia Rodrigo",
-   "listeners": 82,
-   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure"
+   "rank": 10,
+   "title": "RUDE!",
+   "artist": "Hearts2Hearts",
+   "listeners": 88,
+   "url": "https://www.last.fm/music/Hearts2Hearts/_/RUDE%21"
   },
   {
-   "rank": 15,
+   "rank": 11,
+   "title": "Looks Can Kill",
+   "artist": "IVE",
+   "listeners": 85,
+   "url": "https://www.last.fm/music/IVE/_/Looks+Can+Kill"
+  },
+  {
+   "rank": 12,
+   "title": "Creep",
+   "artist": "Radiohead",
+   "listeners": 84,
+   "url": "https://www.last.fm/music/Radiohead/_/Creep"
+  },
+  {
+   "rank": 13,
    "title": "No Surprises",
    "artist": "Radiohead",
-   "listeners": 81,
+   "listeners": 83,
    "url": "https://www.last.fm/music/Radiohead/_/No+Surprises"
   },
   {
-   "rank": 16,
-   "title": "Melatonin",
-   "artist": "Tinashe",
+   "rank": 14,
+   "title": "Ain't In LA",
+   "artist": "ADÉLA",
+   "listeners": 81,
+   "url": "https://www.last.fm/music/AD%C3%89LA/_/Ain%27t+In+LA"
+  },
+  {
+   "rank": 15,
+   "title": "the cure",
+   "artist": "Olivia Rodrigo",
    "listeners": 80,
-   "url": "https://www.last.fm/music/Tinashe/_/Melatonin"
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/the+cure"
+  },
+  {
+   "rank": 16,
+   "title": "Earrings",
+   "artist": "Malcolm Todd",
+   "listeners": 79,
+   "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings"
   },
   {
    "rank": 17,
    "title": "Pop Off Pop Off",
    "artist": "KiiiKiii",
-   "listeners": 79,
+   "listeners": 78,
    "url": "https://www.last.fm/music/KiiiKiii/_/Pop+Off+Pop+Off"
   },
   {
    "rank": 18,
-   "title": "Earrings",
-   "artist": "Malcolm Todd",
-   "listeners": 78,
-   "url": "https://www.last.fm/music/Malcolm+Todd/_/Earrings"
+   "title": "Melatonin",
+   "artist": "Tinashe",
+   "listeners": 77,
+   "url": "https://www.last.fm/music/Tinashe/_/Melatonin"
   },
   {
    "rank": 19,
-   "title": "Magnetic",
-   "artist": "ILLIT",
-   "listeners": 78,
-   "url": "https://www.last.fm/music/ILLIT/_/Magnetic"
+   "title": "stupid song",
+   "artist": "Olivia Rodrigo",
+   "listeners": 75,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song"
   },
   {
    "rank": 20,
-   "title": "stupid song",
-   "artist": "Olivia Rodrigo",
-   "listeners": 77,
-   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/stupid+song"
+   "title": "Magnetic",
+   "artist": "ILLIT",
+   "listeners": 75,
+   "url": "https://www.last.fm/music/ILLIT/_/Magnetic"
   },
   {
    "rank": 21,
    "title": "Heavy Serenade",
    "artist": "NMIXX",
-   "listeners": 75,
+   "listeners": 74,
    "url": "https://www.last.fm/music/NMIXX/_/Heavy+Serenade"
   },
   {
    "rank": 22,
-   "title": "404 (New Era)",
-   "artist": "KiiiKiii",
-   "listeners": 75,
-   "url": "https://www.last.fm/music/KiiiKiii/_/404+(New+Era)"
+   "title": "Oh Yeah?",
+   "artist": "Steve Lacy",
+   "listeners": 74,
+   "url": "https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F"
   },
   {
    "rank": 23,
-   "title": "Deja Vu",
-   "artist": "RESCENE",
-   "listeners": 69,
-   "url": "https://www.last.fm/music/RESCENE/_/Deja+Vu"
+   "title": "404 (New Era)",
+   "artist": "KiiiKiii",
+   "listeners": 74,
+   "url": "https://www.last.fm/music/KiiiKiii/_/404+(New+Era)"
   },
   {
    "rank": 24,
    "title": "drop dead",
    "artist": "Olivia Rodrigo",
-   "listeners": 69,
+   "listeners": 70,
    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/drop+dead"
   },
   {
    "rank": 25,
    "title": "See You Again (feat. Kali Uchis)",
    "artist": "Tyler, The Creator",
-   "listeners": 68,
+   "listeners": 69,
    "url": "https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis)"
   },
   {
    "rank": 26,
-   "title": "Pop",
-   "artist": "ILLIT",
-   "listeners": 67,
-   "url": "https://www.last.fm/music/ILLIT/_/Pop"
-  },
-  {
-   "rank": 27,
-   "title": "Echo",
-   "artist": "Ecco2K",
-   "listeners": 67,
-   "url": "https://www.last.fm/music/Ecco2K/_/Echo"
-  },
-  {
-   "rank": 28,
    "title": "Blue Valentine",
    "artist": "NMIXX",
-   "listeners": 67,
+   "listeners": 66,
    "url": "https://www.last.fm/music/NMIXX/_/Blue+Valentine"
   },
   {
-   "rank": 29,
+   "rank": 27,
    "title": "NOT CUTE ANYMORE",
    "artist": "ILLIT",
-   "listeners": 67,
+   "listeners": 66,
    "url": "https://www.last.fm/music/ILLIT/_/NOT+CUTE+ANYMORE"
   },
   {
+   "rank": 28,
+   "title": "Deja Vu",
+   "artist": "RESCENE",
+   "listeners": 64,
+   "url": "https://www.last.fm/music/RESCENE/_/Deja+Vu"
+  },
+  {
+   "rank": 29,
+   "title": "Pink + White",
+   "artist": "Frank Ocean",
+   "listeners": 64,
+   "url": "https://www.last.fm/music/Frank+Ocean/_/Pink+%252B+White"
+  },
+  {
    "rank": 30,
-   "title": "Aldehydes and Ketones",
-   "artist": "Ecco2K",
-   "listeners": 66,
-   "url": "https://www.last.fm/music/Ecco2K/_/Aldehydes+and+Ketones"
+   "title": "Pop",
+   "artist": "ILLIT",
+   "listeners": 63,
+   "url": "https://www.last.fm/music/ILLIT/_/Pop"
   },
   {
    "rank": 31,
    "title": "Let Down",
    "artist": "Radiohead",
-   "listeners": 66,
+   "listeners": 63,
    "url": "https://www.last.fm/music/Radiohead/_/Let+Down"
   },
   {
    "rank": 32,
-   "title": "Pink + White",
-   "artist": "Frank Ocean",
-   "listeners": 66,
-   "url": "https://www.last.fm/music/Frank+Ocean/_/Pink+%252B+White"
-  },
-  {
-   "rank": 33,
-   "title": "Blinding Lights",
-   "artist": "The Weeknd",
-   "listeners": 65,
-   "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights"
-  },
-  {
-   "rank": 34,
-   "title": "KISS N TELL",
-   "artist": "aespa",
-   "listeners": 64,
-   "url": "https://www.last.fm/music/aespa/_/KISS+N+TELL"
-  },
-  {
-   "rank": 35,
-   "title": "너",
-   "artist": "SYSTEM SEOUL",
-   "listeners": 64,
-   "url": "https://www.last.fm/music/SYSTEM+SEOUL/_/%EB%84%88"
-  },
-  {
-   "rank": 36,
-   "title": "Industrial Strength",
-   "artist": "Ecco2K",
-   "listeners": 64,
-   "url": "https://www.last.fm/music/Ecco2K/_/Industrial+Strength"
-  },
-  {
-   "rank": 37,
-   "title": "Fæmous Vagrant",
-   "artist": "Ecco2K",
-   "listeners": 62,
-   "url": "https://www.last.fm/music/Ecco2K/_/F%C3%A6mous+Vagrant"
-  },
-  {
-   "rank": 38,
    "title": "연애의 조건 (Love Options)",
    "artist": "베스티",
-   "listeners": 61,
+   "listeners": 62,
    "url": "https://www.last.fm/music/%EB%B2%A0%EC%8A%A4%ED%8B%B0/_/%EC%97%B0%EC%95%A0%EC%9D%98+%EC%A1%B0%EA%B1%B4+(Love+Options)"
   },
   {
-   "rank": 39,
-   "title": "Oh Yeah?",
-   "artist": "Steve Lacy",
-   "listeners": 61,
-   "url": "https://www.last.fm/music/Steve+Lacy/_/Oh+Yeah%3F"
+   "rank": 33,
+   "title": "KISS N TELL",
+   "artist": "aespa",
+   "listeners": 62,
+   "url": "https://www.last.fm/music/aespa/_/KISS+N+TELL"
   },
   {
-   "rank": 40,
-   "title": "hate that i made you love me",
-   "artist": "Ariana Grande",
-   "listeners": 60,
-   "url": "https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me"
-  },
-  {
-   "rank": 41,
+   "rank": 34,
    "title": "DEPENDS",
    "artist": "XG",
-   "listeners": 60,
+   "listeners": 62,
    "url": "https://www.last.fm/music/XG/_/DEPENDS"
   },
   {
+   "rank": 35,
+   "title": "AHH YEA",
+   "artist": "Playboi Carti",
+   "listeners": 62,
+   "url": "https://www.last.fm/music/Playboi+Carti/_/AHH+YEA"
+  },
+  {
+   "rank": 36,
+   "title": "Blinding Lights",
+   "artist": "The Weeknd",
+   "listeners": 62,
+   "url": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights"
+  },
+  {
+   "rank": 37,
+   "title": "Angel Bite",
+   "artist": "TOMORROW X TOGETHER",
+   "listeners": 61,
+   "url": "https://www.last.fm/music/TOMORROW+X+TOGETHER/_/Angel+Bite"
+  },
+  {
+   "rank": 38,
+   "title": "너",
+   "artist": "SYSTEM SEOUL",
+   "listeners": 61,
+   "url": "https://www.last.fm/music/SYSTEM+SEOUL/_/%EB%84%88"
+  },
+  {
+   "rank": 39,
+   "title": "hate that i made you love me",
+   "artist": "Ariana Grande",
+   "listeners": 59,
+   "url": "https://www.last.fm/music/Ariana+Grande/_/hate+that+i+made+you+love+me"
+  },
+  {
+   "rank": 40,
+   "title": "All I Want for Christmas Is You",
+   "artist": "Mariah Carey",
+   "listeners": 58,
+   "url": "https://www.last.fm/music/Mariah+Carey/_/All+I+Want+for+Christmas+Is+You"
+  },
+  {
+   "rank": 41,
+   "title": "CRASH",
+   "artist": "ALLDAY PROJECT",
+   "listeners": 58,
+   "url": "https://www.last.fm/music/ALLDAY+PROJECT/_/CRASH"
+  },
+  {
    "rank": 42,
-   "title": "Plume",
-   "artist": "Ecco2K",
-   "listeners": 60,
-   "url": "https://www.last.fm/music/Ecco2K/_/Plume"
+   "title": "Duvet",
+   "artist": "bôa",
+   "listeners": 58,
+   "url": "https://www.last.fm/music/b%C3%B4a/_/Duvet"
   },
   {
    "rank": 43,
-   "title": "백화요란 (Inside Out)",
-   "artist": "RESCENE",
-   "listeners": 59,
-   "url": "https://www.last.fm/music/RESCENE/_/%EB%B0%B1%ED%99%94%EC%9A%94%EB%9E%80+(Inside+Out)"
+   "title": "505",
+   "artist": "Arctic Monkeys",
+   "listeners": 57,
+   "url": "https://www.last.fm/music/Arctic+Monkeys/_/505"
   },
   {
    "rank": 44,
-   "title": "Spring (Love me)",
-   "artist": "2hollis",
-   "listeners": 59,
-   "url": "https://www.last.fm/music/2hollis/_/Spring+(Love+me)"
+   "title": "SUN KISS",
+   "artist": "Tuide",
+   "listeners": 56,
+   "url": "https://www.last.fm/music/Tuide/_/SUN+KISS"
   },
   {
    "rank": 45,
-   "title": "Cuban Heel",
-   "artist": "Ecco2K",
-   "listeners": 59,
-   "url": "https://www.last.fm/music/Ecco2K/_/Cuban+Heel"
+   "title": "BAD",
+   "artist": "ATEEZ",
+   "listeners": 56,
+   "url": "https://www.last.fm/music/ATEEZ/_/BAD"
   },
   {
    "rank": 46,
-   "title": "You're Under Arrest",
-   "artist": "ILLIT",
-   "listeners": 58,
-   "url": "https://www.last.fm/music/ILLIT/_/You%27re+Under+Arrest"
+   "title": "maggots for brains",
+   "artist": "Olivia Rodrigo",
+   "listeners": 56,
+   "url": "https://www.last.fm/music/Olivia+Rodrigo/_/maggots+for+brains"
   },
   {
    "rank": 47,
-   "title": "Whiplash",
-   "artist": "aespa",
-   "listeners": 58,
-   "url": "https://www.last.fm/music/aespa/_/Whiplash"
+   "title": "Lovers Rock",
+   "artist": "TV Girl",
+   "listeners": 56,
+   "url": "https://www.last.fm/music/TV+Girl/_/Lovers+Rock"
   },
   {
    "rank": 48,
-   "title": "Die for You",
-   "artist": "The Weeknd",
-   "listeners": 58,
-   "url": "https://www.last.fm/music/The+Weeknd/_/Die+for+You"
-  },
-  {
-   "rank": 49,
    "title": "Housewife",
    "artist": "Tate McRae",
-   "listeners": 57,
+   "listeners": 55,
    "url": "https://www.last.fm/music/Tate+McRae/_/Housewife"
   },
   {
+   "rank": 49,
+   "title": "Last Christmas",
+   "artist": "Wham!",
+   "listeners": 55,
+   "url": "https://www.last.fm/music/Wham%21/_/Last+Christmas"
+  },
+  {
    "rank": 50,
-   "title": "French Exit",
-   "artist": "Ecco2K",
-   "listeners": 57,
-   "url": "https://www.last.fm/music/Ecco2K/_/French+Exit"
+   "title": "Drowning",
+   "artist": "WOODZ",
+   "listeners": 55,
+   "url": "https://www.last.fm/music/WOODZ/_/Drowning"
   }
  ]
 }
